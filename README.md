@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola, soy Tiago Cambiaso! 👋
 
-<!--
-**tiagocambiaso/tiagocambiaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Junior Web Developer | Bahía Blanca, Argentina 🇦🇷
+Me especializo en crear herramientas digitales que ayudan a negocios locales a organizarse y vender más. 
 
-Here are some ideas to get you started:
+* 🛠️ **Tecnologías:** HTML5, CSS3, JavaScript (Fetch API, JSON).
+* 📅 **Sistemas:** Integración de reservas automáticas con Calendly.
+* 🇪🇸 **Ciudadano Español:** Interesado en proyectos locales y remotos para la UE.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📈 Mis Proyectos
+* [Sistema de Precios Dinámicos para Estéticas](https://tiagocambiaso.github.io/sistema-precios-dinamicos/)
+* [Portfolio de Servicios Luxury](https://tiagocambiaso.github.io/tiago.dev/)
+
+---
+
+![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tiagocambiaso&show_icons=true&theme=radical)
