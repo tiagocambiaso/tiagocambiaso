@@ -4,7 +4,7 @@
 I specialize in creating digital tools that help local businesses organize their operations and increase sales.
 
 * 🛠️ **Technologies:** React, TypeScript, Tailwind CSS, JavaScript (Fetch API, JSON), HTML5, CSS3.
-* 📅 **Systems:** Integration of automated booking systems with Calendly and local business management.
+* 💡 **Solutions & Integrations:** Development of custom business logic, automated booking workflows, and data-driven web applications.
 * 🇪🇸 **Spanish Citizen:** Interested in local and remote projects for the EU and USA.
 
 ---
