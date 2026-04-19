@@ -1,18 +1,19 @@
-# ¡Hola, soy Tiago Cambiaso! 👋
+# Hi, I'm Tiago Cambiaso! 👋
 
 ### 🚀 Junior Web Developer | Bahía Blanca, Argentina 🇦🇷
-Me especializo en crear herramientas digitales que ayudan a negocios locales a organizarse y vender más. 
+I specialize in creating digital tools that help local businesses organize their operations and increase sales.
 
-* 🛠️ **Tecnologías:** HTML5, CSS3, JavaScript (Fetch API, JSON).
-* 📅 **Sistemas:** Integración de reservas automáticas con Calendly.
-* 🇪🇸 **Ciudadano Español:** Interesado en proyectos locales y remotos para la UE.
-
----
-
-### 📈 Mis Proyectos
-* [Sistema de Precios Dinámicos para Estéticas](https://tiagocambiaso.github.io/sistema-precios-dinamicos/)
-* [Portfolio de Servicios Luxury](https://tiagocambiaso.github.io/tiago.dev/)
+* 🛠️ **Technologies:** React, TypeScript, Tailwind CSS, useReducer, JavaScript (Fetch API, JSON), HTML5, CSS3.
+* 📅 **Systems:** Integration of automated booking systems with Calendly and local business management.
+* 🇪🇸 **Spanish Citizen:** Interested in local and remote projects for the EU and USA.
 
 ---
 
-![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tiagocambiaso&show_icons=true&theme=radical)
+### 📈 My Projects
+* [Calorie & Activity Tracker](https://calorie-tracker-tiagodev1.vercel.app)
+* [Dynamic Pricing System for Aesthetics](https://tiagocambiaso.github.io/sistema-precios-dinamicos/)
+* [Luxury Services Portfolio](https://tiagocambiaso.github.io/tiago.dev/)
+
+---
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiagocambiaso&show_icons=true&theme=radical)
