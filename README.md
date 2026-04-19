@@ -3,7 +3,7 @@
 ### 🚀 Junior Web Developer | Bahía Blanca, Argentina 🇦🇷
 I specialize in creating digital tools that help local businesses organize their operations and increase sales.
 
-* 🛠️ **Technologies:** React, TypeScript, Tailwind CSS, useReducer, JavaScript (Fetch API, JSON), HTML5, CSS3.
+* 🛠️ **Technologies:** React, TypeScript, Tailwind CSS, JavaScript (Fetch API, JSON), HTML5, CSS3.
 * 📅 **Systems:** Integration of automated booking systems with Calendly and local business management.
 * 🇪🇸 **Spanish Citizen:** Interested in local and remote projects for the EU and USA.
 
